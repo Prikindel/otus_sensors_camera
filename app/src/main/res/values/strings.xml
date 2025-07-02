@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="take_photo">Получить фото</string>
+    <string name="retake_photo">Переснять фото</string>
 </resources>
